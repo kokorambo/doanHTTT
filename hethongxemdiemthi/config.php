@@ -5,6 +5,6 @@ define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
 define('DB_DATABASE', 'thpt');
 //defaultlink to website
-define('DEFAULT_URL', 'http://localhost:3030/hethongxemdiemthi/');
+define('DEFAULT_URL', 'http://localhost:3030/doanHTTT/hethongxemdiemthi/');
 
         

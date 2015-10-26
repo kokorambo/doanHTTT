@@ -1,8 +1,8 @@
 <?php
 session_start();
- include '../cores/Model.php';
+//session_register("user");
+include '../cores/Model.php';
  //login
- //$submit = filter_input(INPUT_POST, 'submit',FILTER_DEFAULT, FILTER_REQUIRE_ARRA);
  if (isset($_POST['submit'])) 
     {
         if ($_POST['sobaodanh'] != '' && $_POST['matkhau'] != '') 

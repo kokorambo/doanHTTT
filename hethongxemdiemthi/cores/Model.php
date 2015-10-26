@@ -9,5 +9,4 @@ class User {
         $statement = "select* from thisinh where sobaodanh = '$sobaodanh'";
         return mysql_query($statement);     
     }
-
 }

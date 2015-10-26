@@ -3,20 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/views/ruthoso.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/views/phantichdiemthi.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/views/login.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/controllers/phantichdiemthiCtrl.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/views/nophoso.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/models/login.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/views/home.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/models/Entity/cumthi.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/helpers/database.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/views/xemdiemthi.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/index.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/views/tuvantuyensinh.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/controllers/homeCtrl.php</file>
-            <file>file:/C:/xampp/htdocs/Hethongxemdiemthi/models/nophoso.php</file>
+            <file>file:/C:/xampp/htdocs/doanHTTT/hethongxemdiemthi/controllers/homeCtrl.php</file>
+            <file>file:/C:/xampp/htdocs/doanHTTT/hethongxemdiemthi/controllers/nophosoCtrl.php</file>
+            <file>file:/C:/xampp/htdocs/doanHTTT/hethongxemdiemthi/cores/Model.php</file>
+            <file>file:/C:/xampp/htdocs/doanHTTT/hethongxemdiemthi/views/home.php</file>
+            <file>file:/C:/xampp/htdocs/doanHTTT/hethongxemdiemthi/views/nophoso.php</file>
+            <file>file:/C:/xampp/htdocs/doanHTTT/hethongxemdiemthi/views/login.php</file>
+            <file>file:/C:/xampp/htdocs/doanHTTT/hethongxemdiemthi/models/nophoso.php</file>
+            <file>file:/C:/xampp/htdocs/doanHTTT/hethongxemdiemthi/models/connectDB.php</file>
+            <file>file:/C:/xampp/htdocs/doanHTTT/hethongxemdiemthi/templates/css/login.css</file>
+            <file>file:/C:/xampp/htdocs/doanHTTT/hethongxemdiemthi/controllers/loginControllers.php</file>
+            <file>file:/C:/xampp/htdocs/doanHTTT/hethongxemdiemthi/cores/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/doanHTTT/hethongxemdiemthi/cores/Database.php</file>
         </group>
     </open-files>
 </project-private>
