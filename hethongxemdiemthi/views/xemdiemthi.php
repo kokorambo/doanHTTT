@@ -19,8 +19,8 @@
                                           
                                 </select>
                             </div>
-                            <div class="diemthi2">
-                                <div class="col-xs-5">
+                            <div class="from-group">
+                                <div class="diemthi2">
                                     <label class="form-inline">Chọn cụm thi</label>
                                 </div>
                             <select name="cumthi" class="form-control">
