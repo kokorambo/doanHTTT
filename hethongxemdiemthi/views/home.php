@@ -5,9 +5,12 @@
     </head>
     <body>
         <h3>Trang chủ</h3>
-        <h4>Xin chào: <?php 
-        include'../controllers/homeCtrl.php';
-        echo $user["hoten"];?></h4>
+        <h4>Xin chào:
+            <?php
+            include'../controllers/homeCtrl.php';
+            echo $user["hoten"];
+            ?>
+        </h4>
         <a href="../views/xemdiemthi.php">Xem điểm thi</a>
         <a href="../views/phantichdiemthi.php">Phân tích điểm thi</a>
         <a href="../views/nophoso.php">Nộp hồ sơ</a>
